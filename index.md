@@ -9,5 +9,3 @@ _Ph.D. Candidate, Cornell University_
 Homotopy theory, higher category theory, topology, and the foundations of infinity-category theory.
 
 I am a Ph.D. candidate in mathematics at Cornell University, broadly interested in homotopy theory and higher category theory. I also mentor for the Cornell Directed Reading Program.
-
-[Research](./research.md) | [Notes](./notes.md) | [CV](./cv.md) | [Miscellaneous](./misc.md) | [Contact](./contact.md)

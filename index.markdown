@@ -1,4 +1,3 @@
-# Kimball Strong
 
 _Ph.D. Candidate, Cornell University_
 

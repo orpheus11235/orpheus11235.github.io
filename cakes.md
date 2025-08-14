@@ -1,6 +1,4 @@
-![](assets/CakePics/carrot.jpeg "carrot cake with candied pecans")
-
-![](assets/CakePics/mybirthday.jpeg "almond joy cake")
+![](assets/CakePics/carrot.jpeg "carrot cake with candied pecans") ![](assets/CakePics/mybirthday.jpeg "almond joy cake")
 
 ![](assets/CakePics/campanile.jpg "gingerbread replica of the UC Berkeley campanile")
 

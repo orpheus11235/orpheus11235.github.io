@@ -5,6 +5,3 @@ description: "Ph.D. Candidate, Cornell University"
 theme: minima
 plugins:
   - jekyll-feed
-  
-markdown: kramdown
-theme: minima

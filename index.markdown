@@ -7,4 +7,4 @@ _Ph.D. Candidate, Cornell University_
 **Research Interests:**  
 Homotopy theory, higher category theory, topology, and the foundations of infinity-category theory.
 
-I am a Ph.D. candidate in mathematics at Cornell University, broadly interested in homotopy theory and higher category theory. I also mentor for the Cornell Directed Reading Program.
+I am a Ph.D. candidate in mathematics at Cornell University, broadly interested in homotopy theory and higher category theory. 

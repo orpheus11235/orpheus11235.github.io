@@ -1,5 +1,7 @@
-# Research
-
+---
+layout: page
+title: Research
+---
 ## Publications
 
 - _Structure of Spectra of Precompletions_. Rocky Mountain Journal of Mathematics, Vol 50. (2)
@@ -9,11 +11,4 @@
 
 - Homotopy theory
 - Higher category theory
-- Topology
 - Foundations of infinity-category theory
-
-## Activities
-
-- Mentor for the Cornell Directed Reading Program
-
-[Back to Home](./index.md)

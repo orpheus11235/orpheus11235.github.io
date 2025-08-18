@@ -4,7 +4,7 @@ layout: default
 
 <img 
 srcset="assets/pictures/gunkswide-757.jpg 757w, assets/pictures/gunkswide-419.jpg 419w" 
-sizes = "20vw" 
+sizes = "(width <= 10cm) 100vw, 20vw" 
 src="assets/pictures/gunkswide-757.jpg"
 style="float: right" 
 alt="climbing in the Gunks">
@@ -31,5 +31,5 @@ With Erica Barrett, Emil Graf, S. Loepp, and Sharon Zhang. <br>
 
 __Structure of Spectra of Precompletions__ <br>
 With Erica Barrett, Emil Graf, S. Loepp, and Sharon Zhang. <br>
-*AMS CONM issue 773: “Commutative Algebra: 150 Years with Roger and Sylvia Wiegand"* <br>
+*AMS CONM issue 773: "Commutative Algebra: 150 Years with Roger and Sylvia Wiegand"* <br>
 [__arxiv.org/abs/1911.01394__](arxiv.org/abs/1911.01394)

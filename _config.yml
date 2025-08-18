@@ -2,6 +2,10 @@ title: "Kimball Strong"
 email: ks2424@cornell.edu
 description: "Ph.D. Candidate, Cornell University"
 
+header_pages:
+  - misc.md
+  - notes.md
+
 theme: minima
 plugins:
   - jekyll-feed

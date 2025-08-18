@@ -4,7 +4,8 @@ layout: default
 
 <img 
 srcset="assets/pictures/gunkswide-757.jpg 757w, assets/pictures/gunkswide-419.jpg 419w" 
-sizes = "(width <= 10cm) 100vw, 20vw" 
+sizes = "(width <= 20cm) 100vw, 
+    20vw" 
 src="assets/pictures/gunkswide-757.jpg"
 style="float: right" 
 alt="climbing in the Gunks">

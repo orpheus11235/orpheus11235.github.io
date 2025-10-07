@@ -21,7 +21,7 @@ My research is focused in weak higher category theory (e.g. $$\infty$$-categorie
 
 # Research Papers:
 
-__An Enriched Approach to the Strictification of $(\infty,1)$-Categories__ <br>
+__An Enriched Approach to the Strictification of $$(\infty,1)$$-Categories__ <br>
 [__arxiv.org/abs/2510.04254__](https://arxiv.org/abs/2510.04254) 
 
 __Strictification of $$\infty$$-groupoids is comonadic__ <br>

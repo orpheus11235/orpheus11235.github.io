@@ -10,7 +10,7 @@ src="assets/pictures/gunkswide-757.jpg"
 style="float: right" 
 alt="climbing in the Gunks">
 
-I'm a Phd Candidate at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I am on the postdoctoral job market in the 2025-2026 academic year. 
+I'm a PhD Candidate at [Cornell University](https://math.cornell.edu), advised by [Inna Zakharevich](https://pi.math.cornell.edu/~zakh). I am on the postdoctoral job market in the 2025-2026 academic year. 
 
 My research is focused in weak higher category theory (e.g. $$\infty$$-categories) and strict higher category theory (e.g. $$\omega$$-categories) and the interplay betwen the two. 
 

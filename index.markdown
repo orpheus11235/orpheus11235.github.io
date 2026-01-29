@@ -14,7 +14,7 @@ I'm a PhD Candidate at [Cornell University](https://math.cornell.edu), advised b
 
 My research is focused in weak higher category theory (e.g. $$\infty$$-categories) and strict higher category theory (e.g. $$\omega$$-categories) and the interplay betwen the two. 
 
-[__CV__](assets/CV.pdf) (updated Aug. 2025)
+[__CV__](assets/CV.pdf) (updated Jan. 2026)
 
 **Email:** ks2424@cornell.edu  
 

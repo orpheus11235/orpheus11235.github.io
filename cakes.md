@@ -1,5 +1,5 @@
 | ---- | ---- | ---- | 
-| ![](assets/CakePics/crosssection.jpg) | ![](assets/CakePics/midslice.jpg) | ![](assets/CakePics/manyslices.jpg) |
+| ![](assets/CakePics/crosssection.jpg) | ![](assets/CakePics/manyslices.jpg "flavor: Eckmann-Hilton hazelnut") | ![](assets/CakePics/midslice.jpg) |
 | ![](assets/CakePics/free-but-not-flat.jpg "this cake was a gift (and therefore 'free') but not flat, much like the majority of free incomplete tambara functors") | ![](assets/CakePics/brandonhigherkitkat.JPG "kit-kats are much like higher categories in that they themselves are filled with kit-kats") | ![](assets/CakePics/3cellpie.jpeg "a 3-dimensional instantiation of a 2-dimensional depiction of a 3-cell") |
 | ![](assets/CakePics/carrot.jpeg "carrot cake with candied pecans") | ![what does this say](assets/CakePics/mybirthday.jpeg) | ![](assets/CakePics/campanile.jpg "gingerbread replica of the UC Berkeley campanile") |
 | ![](assets/CakePics/sandpile.jpeg "abelian sandpile cake") | ![](assets/CakePics/funfetti-practice.jpeg "funfetti cake, a practice for the next cake") | ![](assets/CakePics/funfetti.jpeg "funfetti birthday cake") |

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cakes
+---
+
 | ---- | ---- | ---- | 
 | ![](assets/CakePics/crosssection.jpg) | ![](assets/CakePics/manyslices.jpg "flavor: Eckmann-Hilton hazelnut") | ![](assets/CakePics/midslice.jpg) |
 | ![](assets/CakePics/free-but-not-flat.jpg "this cake was a gift (and therefore 'free') but not flat, much like the majority of free incomplete tambara functors") | ![](assets/CakePics/brandonhigherkitkat.JPG "kit-kats are much like higher categories in that they themselves are filled with kit-kats") | ![](assets/CakePics/3cellpie.jpeg "a 3-dimensional instantiation of a 2-dimensional depiction of a 3-cell") |

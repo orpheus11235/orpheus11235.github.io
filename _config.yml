@@ -5,6 +5,7 @@ description: "Ph.D. Candidate, Cornell University"
 header_pages:
   - misc.md
   - notes.md
+  - cakes.md
 
 theme: minima
 plugins:

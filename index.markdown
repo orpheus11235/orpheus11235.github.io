@@ -31,6 +31,10 @@ __Strictification of $$\infty$$-groupoids is comonadic__ <br>
 *Theory and Applications of Categories, Vol. 44* <br>
 [__arxiv.org/abs/2405.04780__](https://arxiv.org/abs/2405.04780) 
 
+<div style="font-size: 0.85em; border: 1px solid #bbb; border-radius: 4px; padding: 0.5em 0.75em; margin: 0.5em 0 1em 0; max-width: 40em;">
+NB: there is a mistake in the above paper: the cited Lemma 6.7 is incorrect (confirmed with the authors of that Lemma). This affects the second main theorem of the paper. I am currently working on an erratum fixing this issue; for more information feel free to email me.
+</div>
+
 __Structure of Spectra of Precompletions__ <br>
 With Erica Barrett, Emil Graf, S. Loepp, and Sharon Zhang. <br>
 *Rocky Mountain Journal of Mathematics, Vol. 50* <br>
